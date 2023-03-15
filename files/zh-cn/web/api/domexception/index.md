@@ -5,6 +5,8 @@ slug: Web/API/DOMException
 
 {{ APIRef("DOM") }}
 
+
+
 **`DOMException`** 接口代表调用方法或访问 Web API 属性时发生的异常事件（被称为**异常**，**exception**）。这基本上是在 Web API 中如何描述错误情况的
 
 每个异常都有一个名称 **name**，一个采用骆驼式命名法的简短字符串，用于描述识别错误或异常情况。
